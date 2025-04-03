@@ -1,7 +1,5 @@
 Practice
 <br>
-<br>
-<br>
 1. Create a class called BankAccount. 
 <br> 
 2. Createfields for accountnumber, balance, customername, email and phone number. 
